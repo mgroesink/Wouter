@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wouter", "Wouter\Wouter.csproj", "{17C03694-B9FA-495B-9F37-9870492BFDB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wouter_MySQL", "Wouter_MySQL\Wouter_MySQL.csproj", "{99B9AB91-3210-430B-AD51-B0EE26878F64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17C03694-B9FA-495B-9F37-9870492BFDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C03694-B9FA-495B-9F37-9870492BFDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C03694-B9FA-495B-9F37-9870492BFDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C03694-B9FA-495B-9F37-9870492BFDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B9AB91-3210-430B-AD51-B0EE26878F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B9AB91-3210-430B-AD51-B0EE26878F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B9AB91-3210-430B-AD51-B0EE26878F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B9AB91-3210-430B-AD51-B0EE26878F64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B25E9D1-50A8-4CB6-8D93-0BC63C002E02}
+	EndGlobalSection
+EndGlobal
